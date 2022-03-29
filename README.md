@@ -9,6 +9,8 @@ Folder contains the dataset that is used (letter.data).
 
 
 **Abstract**
+
+
 Optical Character Recognition (OCR) of words in images has huge practical applications. 
 This work studies the utility of different machine learning as well as deep learning models for the task of OCR. 
 The simplest approach to OCR is to recognize each character individually. 
